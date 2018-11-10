@@ -63,6 +63,6 @@
             app:layout_constraintEnd_toEndOf="@+id/edtPautaCadastroDetalhes"
             android:background="@drawable/btn_background"
             android:textColor="@android:color/white"
-            android:clickable="false"
+            android:enabled="false"
             android:textSize="18sp"/>
 </android.support.constraint.ConstraintLayout>
