@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Logout" android:id="@+id/menu_logout" app:showAsAction="collapseActionView"/>
+    <item android:title="Incluir Pauta" android:id="@+id/menu_incluir_pauta"
+          app:showAsAction="collapseActionView"/>
+    <item android:title="Perfil" android:id="@+id/menu_perfil" app:showAsAction="collapseActionView"/>
+    <item android:title="Pautas Fechadas" android:id="@+id/menu_pautas_fechadas"
+          app:showAsAction="ifRoom|collapseActionView"/>
+</menu>

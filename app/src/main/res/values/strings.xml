@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Capptan App</string>
+    <string name="pauta_titulo">Título</string>
+    <string name="pauta_titulo_content_description">Título da pauta</string>
+    <string name="pauta_descricao">Descrição</string>
+    <string name="pauta_descricao_content_description">Descrição da pauta</string>
+</resources>
